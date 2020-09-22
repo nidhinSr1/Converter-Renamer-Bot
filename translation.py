@@ -35,5 +35,5 @@ class Translation(object):
 3.🔹 <b> Send A Photo to make it as permanent Thumbnail</b> \n
 4.🔹 <b> I Can Also Convert Files Into Video through /c2v Command </b>   \n \n <b>Made With Love By: @MalayaliAll</b>
 
-5.🔹 <b> Click /about to know more informations </b>   \n"""
+<b> Click /about to know more informations </b>   \n"""
 
