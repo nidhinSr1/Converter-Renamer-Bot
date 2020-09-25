@@ -1,9 +1,9 @@
 class Translation(object):
-    START_TEXT = """ <b> Hi {} , I'm A Simple File Renamer+File To Video Converter Bot With Permanent Thumbnail support!💯</b> \n
+    START_TEXT = """ """
 
-<b>Bot Maintained By: @MalayaliLinksBot</b> \n
-<b>Do /help for more...</b> \n
-"""
+<
+<b>Do /
+
 
     RENAME_403_ERR = "What Are You Doing? Bruuh!!"
     BANNED_USER_TEXT = "Sorry!! But My Owner As Banned You From Using This Service. That Means You Can't Run Meh Now! \n \n Go To : @MalayaliTGinfos For more Details.. " 
@@ -28,8 +28,15 @@ class Translation(object):
     USER_ADDED_TO_DB = "User <a href='tg://user?id={}'>{}</a> added to {} till {}."
     IFLONG_FILE_NAME = """You Gotta Be Kidding Me...Decrease The Number Of Letters😆😉"""
     ABOUT_ME = " "
-    HELP_USER = " 🖕🖕 "
-    
+    HELP_USER = " 
+    First of all send me a File or Video to rename
+
+Features :
+
+ ◾️ Renames a file or Video in your custom Filename
+ ◾️ Fetches screenshots from your file or video
+ ◾️ Hit settings for getting your settings
+ ◾️ Can create media info of the file
 
 
 
