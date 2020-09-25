@@ -16,7 +16,7 @@ class Translation(object):
     AFTER_SUCCESSFUL_UPLOAD_MSG_WITH_TS = "Downloaded in {} seconds.\nUploaded in {} seconds"
     NOT_AUTH_USER_TEXT = "Go To @MalayaliTGinfos "
     NOT_AUTH_USER_TEXT_FILE_SIZE = "IF You Got This Message You Should Go to @MalayaliTGinfos "
-    SAVED_CUSTOM_THUMB_NAIL = "<b>Thumbnail Saved ✅ This Is Permanent Thumbnail Until</b> /deletethumbnail ❤"
+    SAVED_CUSTOM_THUMB_NAIL = "<b> Custom thumbnail successfully saved! This will be used in future uploads."
     DEL_ETED_CUSTOM_THUMB_NAIL = "thumbnail cleared succesfully🤦"
     FF_MPEG_DEL_ETED_CUSTOM_MEDIA = "Media cleared succesfully."
     SAVED_RECVD_DOC_FILE = "<b>File Downloaded Successfully 😎</b>"
