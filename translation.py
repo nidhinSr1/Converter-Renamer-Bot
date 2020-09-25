@@ -28,5 +28,12 @@ class Translation(object):
     USER_ADDED_TO_DB = "User <a href='tg://user?id={}'>{}</a> added to {} till {}."
     IFLONG_FILE_NAME = """You Gotta Be Kidding Me...Decrease The Number Of Letters😆😉"""
     ABOUT_ME = " "
-    HELP_USER = " <b> first of all "
+    HELP_USER = " <b> First of all send me a File or Video to rename
+
+Features :
+
+ * Renames a file or Video in your custom Filename
+ * Fetches screenshots from your file or video
+ * Hit /settings for getting your settings
+* Can create media info of the file "
     
