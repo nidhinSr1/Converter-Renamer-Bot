@@ -1,8 +1,8 @@
 class Translation(object):
-    START_TEXT = """ """
+    START_TEXT = """ h """
 
-<
-<b>Do /
+
+
 
 
     RENAME_403_ERR = "What Are You Doing? Bruuh!!"
